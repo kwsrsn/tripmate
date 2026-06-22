@@ -46,3 +46,6 @@ app.*.map.json
 
 # Local configuration file (contains API keys, etc.)
 android/local.properties
+
+.env
+.vscode/launch.json
